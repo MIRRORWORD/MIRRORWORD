@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MIRRORWORD
-- 👀 I’m interested in creating software
-- 📫 How to reach me wordsmirrored@gmail.com
+wordsmirrored@gmail.com
 
 <!---
 MIRRORWORD/MIRRORWORD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
